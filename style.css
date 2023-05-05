@@ -321,7 +321,7 @@ img
 /*------------ Footer section styling start ----------*/
 .footer
 {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(7, 4, 0, 0.2) ),url(assets/images/contact_home.svg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.6), rgba(7, 4, 0, 0.2) ),url(assets/images/contact_home.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
